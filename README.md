@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Welcome to your Remotion project!
+Testbed for shapes interpolating
 
 ## Commands
 

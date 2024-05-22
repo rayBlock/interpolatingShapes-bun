@@ -17,6 +17,8 @@
   "dependencies": {
     "@remotion/bundler": "4.0.160",
     "@remotion/cli": "4.0.160",
+    "@remotion/paths": "^4.0.160",
+    "@remotion/shapes": "^4.0.160",
     "@remotion/zod-types": "4.0.160",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
